@@ -1,22 +1,20 @@
 ---
 title: >-
-  Geopolitical Units adjusted within Administrative Forest Boundaries State FS
-  revised 2010 Census (Feature Layer)
-created: '2020-12-03T20:27:17.250382'
-modified: '2021-01-06T00:03:32.090039'
+  Geopolitical Units adjusted within Administrative Forest Boundaries Recording
+  District (Feature Layer)
+created: '2020-12-03T20:27:16.992694'
+modified: '2021-01-06T00:03:31.889927'
 state: active
 type: dataset
 tags:
-  - '2010'
   - Administrative Boundaries
   - Boundaries
-  - Census
   - Lands And Realty
   - Open Data
-  - State
+  - Recording Districts
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/2f3d78a6df9c4b219d8903840057e103_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/86cda61176f0474e9677ee90894064bc_3.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
