@@ -1,9 +1,9 @@
 ---
 title: >-
   USDA Rural Development Multifamily Section 515 Rural Rental Housing and
-  Section 514 Farm Labor Housing Tenant Characteristics
-created: '2020-11-10T16:28:12.374174'
-modified: '2020-11-10T16:28:12.374182'
+  Section 514 Farm Labor Housing Property Characteristics
+created: '2020-11-10T16:28:12.364435'
+modified: '2020-11-10T16:28:12.364443'
 state: active
 type: dataset
 tags:
@@ -26,9 +26,9 @@ tags:
   - Usda
 groups: []
 csv_url: >-
-  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_tenant_info_all_properties.csv
+  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_active_projects.csv
 json_url: ''
 layout: post
 
 ---
-Aggregated tenant characteristics for USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes property address and aggregated demographic information including female headed-households, elderly aged 62 or older, minors, disability status, race, and ethnicity. Also includes average annual income, average annual income by source of income, cost-burden indicator, zero income indicator, and rental assistance subsidy counts by type of assistance. Can be merged with “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Property Characteristics” to link to property characteristics, as well as “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Properties Transfers, Consolidations, and Sales” to link with property transaction histories.
+Property locations and characteristics for USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes latitude and longitude coordinates, property address, type of development, date of operation, profit type, management agent,  loan program identifier, Low Income Housing Tax Credit identifier and expiration date, Multifamily Preservation and Revitalization program identifier, total units, USDA Section 521 rental assistance units, units by bedroom size, and vacant units.
