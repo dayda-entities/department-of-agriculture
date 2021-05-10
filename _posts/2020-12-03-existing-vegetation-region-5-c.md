@@ -1,22 +1,21 @@
 ---
-title: Existing Vegetation Region 5 - CALVEG Zones - Ecoregions (Feature Layer)
-created: '2020-12-03T20:26:39.333130'
-modified: '2020-12-03T20:26:39.333140'
+title: Existing Vegetation Region 5 - Central Coast (Feature Layer)
+created: '2020-12-03T20:26:39.427230'
+modified: '2021-01-06T00:03:22.916099'
 state: active
 type: dataset
 tags:
-  - Calveg
-  - Ecoregions
-  - Eveg
-  - Map Tiles
+  - Existing Veg
+  - Forest Service
   - Open Data
+  - Region 5
   - Usfs
-  - Zones
+  - Vegetation
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/b5c6df6b847147c1ad2f998250712278_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
 ---
-This polygon layer consists of boundaries for the ecological tile units and CALVEG (Classification and Assessment with Landsat of Visible Ecological Groupings) zone units currently being used to tile the EVEG (existing vegetation) dataset. Selected lines were added from the CalWater watershed layer where finer tile divisions were needed. Additionally, attributes from Ecological Units of California (Ecological Domain, Division, Province, Section and Subsection) have been incorporated into this layer. (see Procedures and Citation sections). <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.EV_CalvegZones_Ecoregions.xml' target='_blank'>Metadata</a>
+<b>Note:</b> <b>This is a large dataset. </b>To download, go to <a href='https://enterprisecontentnew-usfs.hub.arcgis.com/datasets/existing-vegetation-region-5-central-coast-feature-layer' target='_blank'>ArcGIS Open Data Set</a> and click the download button, and under additional resources select the geodatabase option. This Existing Vegetation (EVeg) polygon feature class is a CALVEG (Classification and Assessment with LANDSAT of Visible Ecological Groupings) map product from a scale of 1:24,000 to 1:100,000. The geographic extent entails the northeastern portion of CALVEG Zone 6, Central Coast. Source imagery for this layer ranges from the year 1998 to 2015. The CALVEG classification system was used for vegetation typing and crosswalked to other classification systems in this database including the California Wildlife Habitat Relationship System (CWHR). <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.EVMid_R05_CentralCoast.xml' target='_blank'>Metadata</a>
