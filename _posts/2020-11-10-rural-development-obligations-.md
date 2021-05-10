@@ -1,7 +1,7 @@
 ---
-title: Rural Development Obligations and Disbursements (non ARRA) - August 2016
-created: '2020-11-10T16:28:05.500039'
-modified: '2020-11-10T16:28:05.500048'
+title: Rural Development Obligations and Disbursements (non ARRA) - January 2016
+created: '2020-11-10T16:28:06.194636'
+modified: '2020-11-10T16:28:06.194648'
 state: active
 type: dataset
 tags:
@@ -23,9 +23,9 @@ tags:
   - Rural Development
   - Usda
 groups: []
-csv_url: 'https://www.sc.egov.usda.gov/data/files/Non_ARRA/RD_Non_ARRA_20160804_03.csv'
+csv_url: 'https://www.sc.egov.usda.gov/data/files/Non_ARRA/RD_Non_ARRA_20160204_03.csv'
 json_url: ''
 layout: post
 
 ---
-In accordance with the Federal Funding Accountability and Transparency Act of 2006 (FFATA) and the American Recovery and Reinvestment Act of 2009 (ARRA), this downloadable file identifies Rural Development non-ARRA program obligations for August 2016.
+In accordance with the Federal Funding Accountability and Transparency Act of 2006 (FFATA) and the American Recovery and Reinvestment Act of 2009 (ARRA), this downloadable file identifies Rural Development non-ARRA program obligations for January 2016.
