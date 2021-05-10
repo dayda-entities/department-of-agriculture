@@ -1,7 +1,7 @@
 ---
-title: Western Bark Beetle Strategy Point (Feature Layer)
-created: '2020-12-03T20:29:53.619377'
-modified: '2021-01-06T00:04:05.745972'
+title: Western Bark Beetle Strategy Polygon (Feature Layer)
+created: '2020-12-03T20:29:53.761417'
+modified: '2021-01-06T00:04:06.390181'
 state: active
 type: dataset
 tags:
@@ -17,9 +17,9 @@ tags:
   - Western Bark
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/f3c14ca44ef1404986e70aebbc1bff72_1.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/5bb2095eae3d40bcb8cc8fec2b4ab099_3.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
 ---
-Depicts the area of activities to implement the Western Bark Beetle Strategy. Activities were self-reported by field units, and center around three main objectives: increasing safety to ensure that people and community infrastructure are protected from the hazards of falling bark beetle-killed trees and elevated wildfire potential, facilitating recovery to re-establish forests damaged by bark beetles, and cultivating resiliency to prevent or mitigate future bark beetle impacts. <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.Activity_WBBS_PT.xml' target='_blank'>Metadata</a>
+Depicts the area of activities to implement the Western Bark Beetle Strategy. Activities were self-reported by field units, and center around three main objectives: increasing safety to ensure that people and community infrastructure are protected from the hazards of falling bark beetle-killed trees and elevated wildfire potential, facilitating recovery to re-establish forests damaged by bark beetles, and cultivating resiliency to prevent or mitigate future bark beetle impacts. <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.Activity_WBBS_PL.xml' target='_blank'>Metadata</a>
