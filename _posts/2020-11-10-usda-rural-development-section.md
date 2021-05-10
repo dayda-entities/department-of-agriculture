@@ -1,21 +1,20 @@
 ---
 title: >-
-  USDA Rural Development Section 502 Guaranteed Loan Program Active Loans by
-  County
-created: '2020-11-10T16:28:13.169579'
-modified: '2020-11-10T16:28:13.169587'
+  USDA Rural Development Section 538 Multifamily Guaranteed Loans as of
+  7.13.2016
+created: '2020-11-10T16:28:13.234103'
+modified: '2020-11-10T16:28:13.234114'
 state: active
 type: dataset
 tags:
+  - '538'
   - Active Loans
   - Affordable Housing
   - Agriculture
   - Agriculture And Rural Development
-  - Condo
   - Coop
   - Data
   - Direct Home Loan
-  - Disaster Assistance
   - Dwelling
   - Dwellings
   - Guaranteed Loan
@@ -24,28 +23,25 @@ tags:
   - Homeownership
   - Housing
   - Lending
+  - Leveraged Loan
   - Loan
-  - Loans By County
-  - Manufactured Homes
+  - Mfh
   - Multifamily
   - Property
-  - Pud
   - Rental
-  - Rental Assistance
+  - Rental Housing
   - Rural
+  - Rural Areas
   - Rural Development
   - Rural Housing Service
-  - Section 502
-  - Sfhg
+  - Self Help
   - Single Family
-  - Single Family Housing
   - United States Department Of Agriculture
   - Usda
 groups: []
-csv_url: >-
-  http://www.sc.egov.usda.gov/data/files/SFH_Data/SFHG_Section_502_Guaranteed_%20By%20County%206.9.2016.csv
+csv_url: 'http://www.sc.egov.usda.gov/data/files/MFH_Section_538/USDA_RD_July_2016.CSV'
 json_url: ''
 layout: post
 
 ---
-Borrower, property and loan characteristics for all active Section 502 Guaranteed Loans, aggregated by county. Borrower characteristics include: income, debt-income ratio, race, ethnicity, marital status, dependents, household size, first-time homebuyer status, age and disability status. Property characteristics include: project type (PUD, Condo, Coop), housing structure (detached, attached), manufactured home, living area. Loan characteristics include: loan request amount, loan amount, loan-to-value ratio, and appraised value.
+Active loan characteristics in USDA RD Section 538 Multifamily Guaranteed Loan program, including loan, property, and community characteristics. Loan characteristics include obligation fiscal year, lender, borrower, loan closing date, loan amount, total development cost, loan to cost ratio, and federal LIHTC tax credit indicator. Property characteristics include location and address, colonias or tribal location indicator, EZ/EC location indicator, project size, project type, construction type, number of units by bedroom size, and average contract rent by bedroom size. Community characteristics include the area population and median household income at time of obligation.
