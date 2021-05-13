@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% for item in paginator.posts %}
+    <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+        <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
+        <p class="feed-title">{{ item.title }}</p>
+        <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 200}}</p>
+        </a>
+    </div>
+{% endfor %}
+<hr>
+<table width="100%" align="center">
+    <tr>
+        <td width="30%" style="text-align:left;">
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="previous">
+                Previous
+                </a>
+            {% else %}
+                <span class="previous">Previous</span>
+            {% endif %}
+        </td>
+        <td width="30%" style="text-align:center;">
+            {{ paginator.page }} of {{ paginator.total_pages }}
+        </td>
+        <td width="30%" style="text-align:right;">
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+            {% else %}
+                <span class="next ">Next</span>
+            {% endif %}
+        </td>
+    </tr>
+</table>
