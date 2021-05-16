@@ -1,27 +1,21 @@
 ---
-title: >-
-  USDA Agricultural Research Service- Patented Food Processing and Products
-  Technologies
-created: '2020-11-10T16:27:22.852028'
-modified: '2021-02-10T19:07:46.857722'
+title: USDA Agricultural Research Service- Patented Available Plant Cultivars
+created: '2020-11-10T16:27:22.569736'
+modified: '2021-02-10T19:07:44.292132'
 state: active
 type: dataset
 tags:
-  - Acid
-  - Animal
   - Clones
-  - Fda
-  - Food
-  - Fruits
-  - Packaging
-  - Poultry
-  - Protein
-  - Vegetables
+  - Genes
+  - Genotypes
+  - Infection
+  - Markers
+  - Virus
 groups: []
-csv_url: 'https://data.nal.usda.gov/system/files/Food_Processing_and_Products.csv'
+csv_url: 'https://data.nal.usda.gov/system/files/available-plants-data-dictionary.csv'
 json_url: ''
 layout: post
 
 ---
-<p>Recent USDA/ARS patented technologies on food processing and products that are available for licensing are described, including summary, contact, benefits, and applications. Updated June 2018.</p>
+<p>Recent USDA/ARS patent- and PVP-protected plant cultivars that are available for licensing are described, including summary, contact, and patent number/status. Updated June 2018.</p>
 
