@@ -1,9 +1,9 @@
 ---
 title: >-
   USDA Rural Development Multifamily Section 515 Rural Rental Housing and
-  Section 514 Farm Labor Housing Properties Transfers, Consolidations, and Sales
-created: '2020-11-10T16:28:11.840415'
-modified: '2020-11-10T16:28:11.840425'
+  Section 514 Farm Labor Housing Tenant Characteristics
+created: '2020-11-10T16:28:12.374174'
+modified: '2020-11-10T16:28:12.374182'
 state: active
 type: dataset
 tags:
@@ -26,9 +26,9 @@ tags:
   - Usda
 groups: []
 csv_url: >-
-  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_active_projects_transfer_info.csv
+  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_tenant_info_all_properties.csv
 json_url: ''
 layout: post
 
 ---
-Transaction history of property transfers, consolidations, and sales within the USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes new property ID numbers and associated old property ID numbers, transaction type indicators, and effective dates. Requires merging with “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Property Characteristics” to obtain property address and other characteristics based on new property ID number.
+Aggregated tenant characteristics for USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes property address and aggregated demographic information including female headed-households, elderly aged 62 or older, minors, disability status, race, and ethnicity. Also includes average annual income, average annual income by source of income, cost-burden indicator, zero income indicator, and rental assistance subsidy counts by type of assistance. Can be merged with “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Property Characteristics” to link to property characteristics, as well as “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Properties Transfers, Consolidations, and Sales” to link with property transaction histories.
