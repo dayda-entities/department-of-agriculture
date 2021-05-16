@@ -1,7 +1,7 @@
 ---
 title: Data from Genetic variation among 481 diverse soybean accessions
 created: '2020-11-10T16:26:36.547305'
-modified: '2020-11-10T16:26:36.547316'
+modified: '2021-05-14T15:08:03.175453'
 state: active
 type: dataset
 tags:
