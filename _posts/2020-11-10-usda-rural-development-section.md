@@ -1,47 +1,49 @@
 ---
 title: >-
-  USDA Rural Development Section 538 Multifamily Guaranteed Loans as of
-  7.13.2016
-created: '2020-11-10T16:28:13.234103'
-modified: '2020-11-10T16:28:13.234114'
+  USDA Rural Development Section 502 Guaranteed Loan Program Active Loans by
+  Congressional District
+created: '2020-11-10T16:28:13.066374'
+modified: '2020-11-10T16:28:13.066382'
 state: active
 type: dataset
 tags:
-  - '538'
   - Active Loans
-  - Affordable Housing
   - Agriculture
   - Agriculture And Rural Development
+  - Condo
+  - Congressional District
   - Coop
   - Data
-  - Direct Home Loan
+  - Disaster Assistance
   - Dwelling
-  - Dwellings
   - Guaranteed Loan
+  - Home Loan
   - Home Mortgage
-  - Home Purchease
-  - Homeownership
+  - Home Ownership
+  - Home Purchase
   - Housing
   - Lending
-  - Leveraged Loan
   - Loan
-  - Mfh
+  - Manufactured Homes
   - Multifamily
   - Property
+  - Pud
   - Rental
-  - Rental Housing
+  - Rental Assistance
   - Rural
-  - Rural Areas
   - Rural Development
   - Rural Housing Service
-  - Self Help
+  - Section 502
+  - Sfhg
   - Single Family
+  - Single Family Housing
   - United States Department Of Agriculture
   - Usda
 groups: []
-csv_url: 'http://www.sc.egov.usda.gov/data/files/MFH_Section_538/USDA_RD_July_2016.CSV'
+csv_url: >-
+  http://www.sc.egov.usda.gov/data/files/SFH_Data/SFHG_Section_502_Guaranteed_By%20Congressional%20Dist%206.9.2016.csv
 json_url: ''
 layout: post
 
 ---
-Active loan characteristics in USDA RD Section 538 Multifamily Guaranteed Loan program, including loan, property, and community characteristics. Loan characteristics include obligation fiscal year, lender, borrower, loan closing date, loan amount, total development cost, loan to cost ratio, and federal LIHTC tax credit indicator. Property characteristics include location and address, colonias or tribal location indicator, EZ/EC location indicator, project size, project type, construction type, number of units by bedroom size, and average contract rent by bedroom size. Community characteristics include the area population and median household income at time of obligation.
+Borrower, property and loan characteristics for all active Section 502 Guaranteed Loans, aggregated by Congressional District. Borrower characteristics include: income, debt-income ratio, race, ethnicity, marital status, dependents, household size, first-time homebuyer status, age and disability status. Property characteristics include: project type (PUD, Condo, Coop), housing structure (detached, attached), manufactured home, living area. Loan characteristics include: loan request amount, loan amount, loan-to-value ratio, and appraised value.Property characteristics include: project type (PUD, Condo, Coop), housing structure (detached, attached), manufactured home, living area. Loan characteristics include: loan request amount, loan amount, loan-to-value ratio, and appraised value.
