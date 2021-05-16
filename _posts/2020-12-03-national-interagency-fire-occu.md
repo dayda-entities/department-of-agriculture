@@ -1,7 +1,7 @@
 ---
 title: National Interagency Fire Occurrence 1992-2015 (Feature Layer)
 created: '2020-12-03T20:28:36.124922'
-modified: '2020-12-03T20:28:36.124933'
+modified: '2021-05-14T15:28:03.143529'
 state: active
 type: dataset
 tags:
