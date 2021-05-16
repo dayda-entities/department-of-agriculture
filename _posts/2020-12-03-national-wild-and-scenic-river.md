@@ -1,24 +1,28 @@
 ---
-title: National Wild and Scenic Rivers Legal Status (Feature Layer)
-created: '2020-12-03T20:28:42.735756'
-modified: '2021-05-14T15:28:43.740510'
+title: National Wild and Scenic River Segments (Feature Layer)
+created: '2020-12-03T20:28:41.428940'
+modified: '2021-05-14T15:28:31.812518'
 state: active
 type: dataset
 tags:
-  - Administrative Boundaries
-  - Alp Land Dataset
+  - Blm
+  - Fs
+  - Fws
   - Hydrography
-  - Land Status
-  - Lands And Realty
-  - National Forest System Lands
+  - Inland Waters
+  - Nhd
+  - Nps
   - Open Data
-  - Us Forest Service
-  - Wild Scenic River Name
+  - Recreation
+  - River
+  - Scenic
+  - Wild
+  - Wild And Scenic Rivers
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/fc3fc4a7a68541f9a225326aed303f19_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/d7a7e66ff68044e4be51fbb76ecf0d0b_1.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
 ---
-The Land Status view of a Wild and Scenic River. Areas designated by Congress as part of the National Wild and Scenic River System, with related details including the date of the designation, status of the final boundary description, authority, and land status case and document information. <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.WildScenicRiverStatus.xml' target='_blank'>Metadata</a>
+This polyline feature class depicts the classification of each wild and scenic river segment designated by Congress and the Secretary of the Interior for the United States and Puerto Rico. This layer was created by a multi-agency effort including the US Forest Service, National Park Service, Bureau of Land Management and the Fish and Wildlife Service. The spatial data were referenced to the latest High Resolution National Hydrological Data Layer (NHD 1:24,000 Scale or better), published by United States Geological Survey (USGS). Wild rivers are free of dams, generally inaccessible except by trail, and represent vestiges of primitive America. Scenic rivers are free of dams, with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads. Recreational rivers are readily accessible by road or railroad, may have some development along their shorelines, and may have been dammed in the past. <a href='https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.WildScenicRiverSegment_LN.xml' target='_blank'>Metadata</a>
