@@ -1,9 +1,9 @@
 ---
 title: >-
-  Geopolitical Units adjusted within Administrative Forest Boundaries County FS
-  revised 2010 Census (Feature Layer)
-created: '2020-12-03T20:27:16.655408'
-modified: '2021-02-10T19:08:27.451677'
+  Geopolitical Units adjusted within Administrative Forest Boundaries
+  Congressional Districts FS revised 2010 Census (Feature Layer)
+created: '2020-12-03T20:27:15.517233'
+modified: '2021-05-14T15:17:43.015260'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Administrative Boundaries
   - Boundaries
   - Census
-  - County
+  - Congressional Districts
   - Lands And Realty
   - Open Data
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/9248aea543dd4ef0833680d136fe8496_1.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/726e9f93a04249c7b8b52526d564f300_4.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
