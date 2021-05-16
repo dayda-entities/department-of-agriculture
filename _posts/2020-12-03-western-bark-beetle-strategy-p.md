@@ -1,7 +1,7 @@
 ---
 title: Western Bark Beetle Strategy Polygon (Feature Layer)
 created: '2020-12-03T20:29:53.761417'
-modified: '2021-01-06T00:04:06.390181'
+modified: '2021-05-14T15:39:36.927674'
 state: active
 type: dataset
 tags:
