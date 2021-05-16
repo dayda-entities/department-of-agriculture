@@ -3,7 +3,7 @@ title: >-
   Parcels withdrawn from settlement, sale, mineral location, and/or entry
   (Feature Layer)
 created: '2020-12-03T20:28:55.047877'
-modified: '2021-01-06T00:03:49.168524'
+modified: '2021-05-14T15:29:54.204018'
 state: active
 type: dataset
 tags:
