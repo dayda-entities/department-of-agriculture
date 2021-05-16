@@ -1,21 +1,35 @@
 ---
-title: USDA Agricultural Research Service- Available Biological Materials
-created: '2020-11-10T16:27:22.296725'
-modified: '2021-02-10T19:07:39.394903'
+title: >-
+  USDA Agricultural Research Service- Patented Crop Production and Crop
+  Protection Technologies
+created: '2020-11-10T16:27:22.755409'
+modified: '2021-02-10T19:07:45.733831'
 state: active
 type: dataset
 tags:
-  - Cell Lines
-  - Cloned Genetic Material
-  - Hybridoma Cell Lines
-  - Microbial Isolates
-  - Plasmids
-  - Viruses
+  - Attractants
+  - Bacterial
+  - Breeding
+  - Crops
+  - Equipment
+  - Fungal
+  - Infection
+  - Insects
+  - Irrigation
+  - Pesticides
+  - Plants
+  - Repellant
+  - Soil
+  - Sorghum
+  - Strains
+  - Subsoil
+  - Trees
+  - Virus
 groups: []
-csv_url: 'https://data.nal.usda.gov/system/files/biological-materials-2018-06.csv'
+csv_url: 'https://data.nal.usda.gov/system/files/Crop_Production_and_Protection.csv'
 json_url: ''
 layout: post
 
 ---
-<p>The biological materials in this section are unpatented, proprietary intellectual property, available for licensing under a Biological Materials License Agreement: Hybridoma Cell Lines; Microbial Isolates; Cloned Genetic Material; Cell Lines; Viruses; Plasmids. Updated June 2018.</p>
+<p>Recent USDA/ARS patented technologies on crop production and protection that are available for licensing are described, including summary, contact, benefits, and applications. Updated June 2018.</p>
 
