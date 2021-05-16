@@ -2,10 +2,9 @@
 title: >-
   Data from Eleven years of mountain weather, snow, soil moisture and stream
   flow data from the rain-snow transition zone - the Johnston Draw catchment,
-  Reynolds Creek Experimental Watershed and Critical Zone Observatory, USA. 
-  v1.1
+  Reynolds Creek Experimental Watershed and Critical Zone Observatory, USA. v1.1
 created: '2020-11-10T16:26:34.863366'
-modified: '2020-11-10T16:26:34.863378'
+modified: '2021-05-14T15:08:01.971654'
 state: active
 type: dataset
 tags:
