@@ -1,26 +1,24 @@
 ---
 title: >-
-  Data from Host specificity of Aphelinus species collected from soybean aphid
-  in Asia
-created: '2020-11-10T16:26:38.034472'
-modified: '2020-11-10T16:26:38.034482'
+  Data from Host specificity of Aphelinus species considered for introduction to
+  control Diuraphis noxia
+created: '2020-11-10T16:26:38.025593'
+modified: '2020-11-10T16:26:38.025603'
 state: active
 type: dataset
 tags:
   - Aphelinus Asychis Complex
-  - Aphelinus Coreae
-  - Aphelinus Glycinis
-  - Aphelinus Mali Complex
-  - Aphelinus Rhamni
+  - Aphelinus Hordei
   - Aphelinus Varipes Complex
   - Biological Control
   - Np304
-  - Soybean Aphid
+  - Russian Wheat Aphid
 groups: []
-csv_url: 'https://data.nal.usda.gov/system/files/Aphelinus_rhamni_behavior_detailed.csv'
+csv_url: >-
+  https://data.nal.usda.gov/system/files/data_dictionary_host_specificity_of_Aphelinus.csv
 json_url: ''
 layout: post
 
 ---
-<p>The soybean aphid, <em>Aphis glycines</em> Matsumura (Hemiptera: Aphididae), is native to Asia where it is an occasional pest of soybean, <em>Glycine max</em> (L.). <em>Aphis glycines</em> was found during 2000 in North America and since then has spread throughout much of the area where soybean is grown. In Asia, <em>A. glycines</em> seldom reaches damaging levels; however in North America, it has become the most important insect pest of soybean, decreasing yields and incurring large control costs. Field surveys and exclosure experiments in China showed that natural enemies can limit soybean aphid abundance. A project to find, evaluate, and introduce Asian natural enemies into North America was initiated in 2001, with an emphasis on parasitoids. To ensure that introductions of exotic parasitoids would have minimum impact on non-target species, we tested host specificity of all candidates for introduction. These data sets provide results of no-choice laboratory experiments on host specificity of 13 populations in seven species from three species complexes in the genus <em>Aphelinus</em> (Hymenoptera: Aphelinidae). They also provide results of experiments on the mechanisms of host specificity in three parasitoid species with narrow host ranges.</p>
+<p>Diuraphis noxia, the Russian wheat aphid, has become a major pest of wheat and barley since first being detected in the western USA in 1986. However, it is rarely a pest in Eurasia, its area of origin, and research has shown that natural enemies can limit its abundance there. Among the most important of natural enemies of D. noxia in Eurasia are parasitoids in the genus Aphelinus. These data are results of laboratory experiments on host specificity of ten populations of seven species from two species complexes in the genus Aphelinus. Host specificity was not related to host plant species or the phylogenetic relatedness of the aphids or the parasitoids. While some species had very broad host ranges and others had intermediate host ranges, Aphelinus hordei had a very narrow host range, being restricted primarily to species in the genus Diuraphis, and especially D. noxia. We also report the results of experiments on the mechanisms of this host specificity. Most of the host specificity of A. hordei can be explained by differences in the behavior of females when they encountered different aphid species. Females of A. hordei rarely approach, sting, oviposit or host feed on aphids outside the genus Diuraphis, and they oviposit most frequently in D. noxia. From these results, we conclude that A. hordei is an excellent candidate for introduction into the USA to control D. noxia.</p>
 
