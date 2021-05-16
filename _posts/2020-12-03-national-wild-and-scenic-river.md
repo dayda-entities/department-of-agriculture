@@ -1,7 +1,7 @@
 ---
-title: National Wild and Scenic River Eligible and Suitable Lines (Feature Layer)
-created: '2020-12-03T20:28:39.444061'
-modified: '2021-05-14T15:28:22.036345'
+title: National Wild and Scenic River Eligible and Suitable Segments (Feature Layer)
+created: '2020-12-03T20:28:40.240019'
+modified: '2021-05-14T15:28:30.453241'
 state: active
 type: dataset
 tags:
@@ -24,7 +24,7 @@ tags:
   - Wild And Scenic Rivers
 groups: []
 csv_url: >-
-  https://data-usfs.hub.arcgis.com/datasets/ec3257d2cc294a9fa9ab1b8745621fb7_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
+  https://data-usfs.hub.arcgis.com/datasets/8ed8719296c0419e881fc5364ea85468_1.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 json_url: ''
 layout: post
 
