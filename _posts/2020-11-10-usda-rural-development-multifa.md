@@ -1,9 +1,9 @@
 ---
 title: >-
   USDA Rural Development Multifamily Section 515 Rural Rental Housing and
-  Section 514 Farm Labor Housing Property Characteristics
-created: '2020-11-10T16:28:12.364435'
-modified: '2020-11-10T16:28:12.364443'
+  Section 514 Farm Labor Housing Properties Transfers, Consolidations, and Sales
+created: '2020-11-10T16:28:11.840415'
+modified: '2020-11-10T16:28:11.840425'
 state: active
 type: dataset
 tags:
@@ -26,9 +26,9 @@ tags:
   - Usda
 groups: []
 csv_url: >-
-  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_active_projects.csv
+  https://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_active_projects_transfer_info.csv
 json_url: ''
 layout: post
 
 ---
-Property locations and characteristics for USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes latitude and longitude coordinates, property address, type of development, date of operation, profit type, management agent,  loan program identifier, Low Income Housing Tax Credit identifier and expiration date, Multifamily Preservation and Revitalization program identifier, total units, USDA Section 521 rental assistance units, units by bedroom size, and vacant units.
+Transaction history of property transfers, consolidations, and sales within the USDA Rural Development Multifamily Direct Loan programs: Section 515 Rural Rental Housing and Section 514 Farm Labor Housing. Includes new property ID numbers and associated old property ID numbers, transaction type indicators, and effective dates. Requires merging with “USDA Rural Development Multifamily Section 515 Rural Rental Housing and Section 514 Farm Labor Housing Property Characteristics” to obtain property address and other characteristics based on new property ID number.
