@@ -1,7 +1,7 @@
 ---
-title: Angus Sequence Data Animal 20774
-created: '2021-05-14T15:07:20.703056'
-modified: '2021-05-14T15:07:20.703064'
+title: Angus Sequence Data Animal 20786
+created: '2021-05-14T15:07:27.705668'
+modified: '2021-05-14T15:07:27.705675'
 state: active
 type: dataset
 tags:
@@ -19,6 +19,6 @@ layout: post
 
 ---
 <p>Whole genome sequence data for Bovidae Bos taurus - beef Angus. The data is in "fastq" format.</p>
-<p>The National Animal Germplasm Program has germplasm for this animal, with the repository number 20774.</p>
+<p>The National Animal Germplasm Program has germplasm for this animal, with the repository number 20786.</p>
 <p>There are two versions of each file because we did paired end sequencing. There are two reads for each of the 210 data lines (a forward and a reverse read) summing to 420 total. A diagram of this is attached. In the diagram, the two reads would correspond to read 1 and read 3.</p>
 
