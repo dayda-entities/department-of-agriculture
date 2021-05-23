@@ -15,12 +15,12 @@ layout: null
     "url": "{{ site.url }}/apis.json",
     "specificationVersion": "0.14",
     "apis": [
-        {% for post in site.posts %}
+        {% for post in site.posts %}{% assign title = '' %}{% assign title_array = post.title | strip_html | escape | strip | split: " " %}{% for t in title_array %}{% assign t = t | strip %}{% assign title = title | append: ' ' | append: t %}{% endfor %}{% assign title = title | replace: "\","" %}{% assign title = title | strip | escape %}{% assign content = '' %}{% assign content_array = post.content | strip_html | escape | strip | split: " " %}{% for t in content_array %}{% assign t = t | strip %}{% assign content = content | append: ' ' | append: t %}{% endfor %}{% assign content = content | replace: "\","" %}{% assign content = content | strip | escape %}
         {
-            "name": "{{ post.title | strip_html | escape }}",
-            "description": "{{ post.content | strip_html | strip_newlines | escape }}",
+            "name": "{{ title }}",
+            "description": "{{ content }}",
             "image": "{{ site.profile_pic }}",
-            "humanURL": "{{ post.url }}",
+            "humanURL": "{{ site.url }}{{ post.url }}",
             "baseURL": "",
             "tags": [
                 {% for tag in post.tags %}
@@ -35,12 +35,21 @@ layout: null
                    "url":"{{ post.csv_url }}"
                 }
                 {%- endif -%}
-                {%- if post.csv_url != '' and  post.json_url != '' -%},{%- endif -%}
+                {%- if post.json_url -%}     
                 {%- if post.json_url != '' -%}     
-                {
+                {%- if post.csv_url != '' -%},{%- endif -%}{
                     "type":"x-json",
                     "url":"{{ post.json_url }}"
                  }
+                {%- endif -%}
+                {%- endif -%}
+                {%- if post.postman_collection_url -%}     
+                {%- if post.postman_collection_url != '' -%} 
+                ,{
+                    "type":"x-postman-collection",
+                    "url":"{{ post.postman_collection_url }}"
+                 }
+                {%- endif -%}
                 {%- endif -%}
             ],
             "contact": [
