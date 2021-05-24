@@ -7,8 +7,33 @@
 <p>{{ content }} </p>
 <p><strong>Tags:</strong> {% for tag in page.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
 <center>
-{%- if page.csv_url != '' -%}   <p><a href="{{ page.csv_url }}">&#8614; CSV Download</a></p>{% endif %}
-{%- if page.json_url != '' -%}<p><a href="{{ page.json_url }}">&#8614; JSON Download</a></p>{% endif %}
+<table width=="100%">
+    <tr>
+        <td width="33%" align="center">
+            {%- if page.csv_url != '' -%}   <p><a href="{{ page.csv_url }}"><img src="/assets/img/download-csv.png" width="127"></a></p>{% endif %}
+        </td>
+        <td width="33%" align="center">
+            {%- if page.json_url != '' -%}<p><a href="{{ page.json_url }}"><img src="/assets/img/download-json.png" width="127"></a></p>{% endif %}
+        </td>
+        <td width="33%" align="center">
+            {%- if page.postman_collection_url != '' -%}
+            <div class="postman-run-button"
+            data-postman-action="collection/fork"
+            data-postman-var-1="15909983-b9fb6665-c8cd-4e92-9be2-441d4236dd40"
+            data-postman-collection-url="entityId=15909983-b9fb6665-c8cd-4e92-9be2-441d4236dd40&entityType=collection&workspaceId=3b6f7a46-5db5-42b1-80fe-9fbef41e3e06"></div>
+            <script type="text/javascript">
+              (function (p,o,s,t,m,a,n) {
+                !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                  (n = o.createElement("script")),
+                  (n.id = s+t), (n.async = 1), (n.src = m), n
+                ));
+              }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+            </script>            
+            {% endif %}    
+        </td>                
+    </tr>
+</table>
 </center>
 <hr>
 <table style="width: 100%;">
