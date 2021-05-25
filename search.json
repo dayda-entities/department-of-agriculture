@@ -1,14 +1,11 @@
 ---
 ---
-
 [
-  {% for post in site.posts %}
+  {% for post in site.posts %}{%- assign title = '' -%}{%- assign title_array = post.title | strip_html | escape | strip | split: " " -%}{%- for t in title_array -%}{%- assign t = t | strip -%}{%- assign title = title | append: ' ' | append: t -%}{%- endfor -%}{%- assign title = title | replace: "\","" -%}{%- assign title = title | strip | escape -%}
     {
-
-      "title"    : "{{ post.title | strip_html | escape }}",
+      "title"    : "{{ title }}",
       "url"      : "{{ post.url }}",
       "content"  : {{ post.content | strip_html | strip_newline | strip | jsonify }}
-
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
